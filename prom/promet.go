@@ -1,4 +1,4 @@
-package promet
+package prom
 
 import (
 	"log"
